@@ -1,7 +1,7 @@
 ![MasterHead](https://thumbs.gfycat.com/CanineSameEwe-size_restricted.gif)
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A passionate developer from Canada</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*sMEB_7LvN-TNTTJt.gif">
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"">
 
 
 
