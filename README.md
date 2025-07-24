@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [AI Development](https://github.com/gabesenese/ai_development)
+- 🔭 I’m currently working on [Loic Productivity App](https://github.com/gabesenese/loic_app)
 
 - 🌱 I’m currently learning **React JS and Node JS**
 
